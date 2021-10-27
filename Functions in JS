@@ -1,0 +1,6 @@
+1)ES6 Arrow funstions : 
+-on the place of function keyword you can use '=>'
+-Help us to write less code
+-Don't have their own binding of 'this' variable.
+Ex:
+
