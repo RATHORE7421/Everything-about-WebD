@@ -1,0 +1,7 @@
+1)const:
+define constant values that can not changed once a value is set. The value of a constant can't be changed through reassignment, and it can't be redeclared. 
+The scope of const is block-scoped it means it can not be accessed from outside of block.
+
+2)let:
+ you should always declare variables with const, if you realize that the value of the variable needs to change, go back and change it to let. 
+ Use let when you know that the value of a variable will change. Use const for every other variable.
