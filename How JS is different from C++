@@ -1,1 +1,2 @@
 !)You can redeclare a variable again in global vontext in JS alike C++.
+2)JS used lexical scoping.
